@@ -1,0 +1,3 @@
+# ignoring build and config files
+**/sdkconfig*
+**/build*
