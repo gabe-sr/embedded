@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader
+/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader.rule
+/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader-complete.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

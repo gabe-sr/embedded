@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/Gabe/repo/esp/blink-iled/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
